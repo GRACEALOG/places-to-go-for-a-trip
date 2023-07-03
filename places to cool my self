@@ -1,25 +1,42 @@
-<!DOCTYP html>
+<!DOCTYPE html>
 <head>
     <title>My top 5 places and to  spend my time</title>
     </head>
+    <style>
+        body {
+            background-color:blue;
+        }
+    </style>
+    <link rel="stylesheet"hret,,css stylecss>
     <body>
         <h1>Places I Would Love To Visit</h1>
         <p>
-            <ul>
+           <ul>
     <li>I would love to go to Japan</li><br>
-    <img src="japan.jifi"alt="japan.jifi"</imgsrc><br>
+    <img src="japan.jifi"alt="japan.jifi"><br>
+    
     <li>I would love to go to China</li><br> 
-    <img src="china.jifi"alt"china.jifi"</imgsrc><br>
+    <img src="china.jifi"alt="china.jifi"><br>
+    
     <li> I would love to go to California</li><br>
-    "<img src="car.jfif"alt="car.jfif"</imgsrc><br>
+    "<img src="car.jfif"alt="car.jfif"><br>
     <li> I would love to go to Korea</li><br>
-    <img src="Korea.jfif"alt="Korea.jfif"</imgsrc><br>
+    <img src="Korea.jfif"alt="Korea.jfif"><br>
+    p{
+        colour:red;
+    }
     <li>I would love to go to America</li><br>
-    <img src="am.jifi"alt="am.jifi"</imgsrc><br>
+    <img src="am.jifi"alt="am.jifi"><br>
+    p{
+        colour:red;
+    }
     <li>I would love to go to Canada</li><br>
-    <img src="canada.jfif"alt="canada.jfif"</imgsrc><br>
-            </p>
-        </ul>
+    <img src="canada.jfif"alt="canada.jfif"><br>
+    p{
+        colour:red;
+    }
+         </ul> 
+        </p>
 </body>
 </h1>
 </head>
